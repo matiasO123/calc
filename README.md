@@ -14,3 +14,6 @@ npm run start
 # correr los test
 npm run test
 ```
+GRUPO NUMERO:
+INTEGRANTES
+   AZUL MAURIÑO
