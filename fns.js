@@ -14,7 +14,9 @@ function sum(a, b) {
 
 function res(a, b) {}
 
-function mul(a, b) {}
+function mul(a, b) {
+    return a * b;
+}
 
 function div(a, b) {
     // Tener en cuenta division por 0
