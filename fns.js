@@ -30,6 +30,10 @@ function div(a, b) {
     }
 }
 
-function pow(a, b) {}
+function pow(a,b) {
+   var resultado= math.pow(a,b);
+   return resultado;
+    
+}
 
 module.exports = fns;
