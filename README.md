@@ -14,7 +14,7 @@ npm run start
 # correr los test
 npm run test
 ```
-GRUPO NUMERO:
+GRUPO NUMERO:10
 INTEGRANTES
    AZUL MAURIÑO
    JIMENA PIEDRABUENA
